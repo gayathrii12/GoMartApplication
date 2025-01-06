@@ -41,3 +41,28 @@ Follow these steps to set up the project locally:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/gayathrii12/GoMartApplication.git
+Open the Solution:
+
+Navigate to the cloned directory and open GoMartApplication.sln in Visual Studio.
+Restore NuGet Packages:
+
+In Visual Studio, go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution and restore missing packages.
+Configure the Database:
+
+Update the connection string in the appsettings.json file to match your SQL Server instance.
+Run the provided SQL scripts located in the DatabaseScripts folder to set up the database schema and seed data.
+Build and Run:
+
+Build the solution to ensure all dependencies are resolved.
+Press F5 or click Run in Visual Studio to launch the application.
+Usage
+Login:
+Use the default administrator credentials to access the application.
+Navigate the Dashboard:
+Access various modules such as Inventory, Sales, Customers, and Reports from the dashboard.
+Manage Inventory:
+Add, update, or remove products and manage stock levels.
+Process Sales:
+Record sales transactions and generate receipts.
+Generate Reports:
+View detailed reports on sales performance and inventory status.
