@@ -66,3 +66,37 @@ Process Sales:
 Record sales transactions and generate receipts.
 Generate Reports:
 View detailed reports on sales performance and inventory status.
+
+
+## Usage
+** Login:
+
+Use the default administrator credentials to access the application.
+** Navigate the Dashboard:
+
+Access various modules such as Inventory, Sales, Customers, and Reports from the dashboard.
+** Manage Inventory:
+
+Add, update, or remove products and manage stock levels.
+** Process Sales:
+
+Record sales transactions and generate receipts.
+** Generate Reports:
+
+View detailed reports on sales performance and inventory status.
+# Contributing
+
+Contributions are welcome! To contribute:
+
+1. **Fork the repository**.
+
+2. **Create a new branch**:
+   ```bash
+   git checkout -b feature/YourFeatureName
+3. **Make your changes and commit them:
+   ```bash
+   git commit -m "Add YourFeatureName"
+4. **Push your branch:
+   ```bash
+   git push origin feature/YourFeatureName
+5. **Open a Pull Request
