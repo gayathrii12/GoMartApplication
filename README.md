@@ -69,19 +69,19 @@ View detailed reports on sales performance and inventory status.
 
 
 ## Usage
-**Login:
+**Login**:
 
 Use the default administrator credentials to access the application.
-**Navigate the Dashboard:
+**Navigate the Dashboard**:
 
 Access various modules such as Inventory, Sales, Customers, and Reports from the dashboard.
-**Manage Inventory:
+**Manage Inventory**:
 
 Add, update, or remove products and manage stock levels.
-**Process Sales:
+**Process Sales**:
 
 Record sales transactions and generate receipts.
-**Generate Reports:
+**Generate Reports**:
 
 View detailed reports on sales performance and inventory status.
 # Contributing
